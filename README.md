@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://Twitter1gif.gif' />
 
-<img src='https://imgur.com/a/Q938HZi' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://Twitter1gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://imgur.com/a/Q938HZi'/>
 
 
